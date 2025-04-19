@@ -16,7 +16,7 @@ Key Features:
   - Outputs student grades based on total score
 **Concepts Used:** **Scanner input, primitive data types, conditionals, loops, and constants.**
 
-
+---
 
 Assignment 2 – Menu-Driven Java Program (Array of Objects)**
 Files:** `Student.java`, `GradingSystemMenu.java`
