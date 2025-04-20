@@ -54,7 +54,7 @@ Technologies Used
 
 ---
 
-## 📎 Notes
+## Notes
 - All code is **fully working** and tested
 - Each assignment folder includes:
   - `.java` source code
